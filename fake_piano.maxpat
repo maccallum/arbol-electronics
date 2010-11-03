@@ -117,7 +117,7 @@
 , 			{
 				"box" : 				{
 					"maxclass" : "newobj",
-					"text" : "jam.smoothgain.db~",
+					"text" : "smoothgain~",
 					"patching_rect" : [ 320.0, 600.0, 119.0, 20.0 ],
 					"id" : "obj-16",
 					"fontname" : "Arial",
@@ -131,7 +131,7 @@
 , 			{
 				"box" : 				{
 					"maxclass" : "newobj",
-					"text" : "jam.smoothgain.db~",
+					"text" : "smoothgain~",
 					"patching_rect" : [ 200.0, 600.0, 119.0, 20.0 ],
 					"id" : "obj-13",
 					"fontname" : "Arial",
