@@ -1,4 +1,4 @@
-# El &Aacute rbol de la noche triste
+# El &#193rbol de la noche triste
 
 ## Requirements
 * Max/MSP >6
